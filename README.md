@@ -8,7 +8,8 @@ I build native apps, games and interactive web projects — mostly in **Swift**,
 
 **[Course Galaxy](https://github.com/JoseVGerald/course-galaxy)** — a 3D galaxy you fly through where every course is a planet, rendered in Blender and brought to life in three.js with custom shaders.
 
-**My Little Buddy** — a financial-literacy virtual pet game in Godot 4 with an on-device AI assistant (Ollama), built with two teammates. 1st at FBLA Regionals and 6th at FBLA Nationals 2026.
+**My Little Buddy** — a financial-literacy virtual pet game in Godot 4 with an on-device AI assistant (Ollama), built with two teammates. 1st at FBLA Regionals and 6th at FBLA Nationals 2026.(Ask to see more)
+
 
 **AI Nexus** — a gamified AI-literacy portal for high schoolers, in progress with my team for TSA Webmaster 2026–27.
 
